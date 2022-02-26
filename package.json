@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "unrealengine4shader.helloWorld",
-				"title": "Hello World"
+				"title": "UnrealEngineTest"
 			}
 		]
 	},
